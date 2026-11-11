@@ -1,0 +1,17 @@
+qa:
+  layer1:
+    - layer1_qa_connection
+  layer2:
+    - layer2_qa_db
+
+dev:
+  layer1:
+    - layer1_dev_connection
+  layer2:
+    - layer2_dev_db
+
+uat:
+  layer1:
+    - layer1_uat_connection
+  layer2:
+    - layer2_uat_db
